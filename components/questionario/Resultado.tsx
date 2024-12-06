@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
 		padding: 15,
 	},
 	texto: {
-		color: '#fff',
+		color: '#eeeeee',
 		fontFamily: 'Roboto',
 		fontSize: 28,
 	},
@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
 		marginBottom: 8,
 	},
 	perguntaRevisao: {
-		color: '#ffffff',
+		color: '#eeeeee',
 		fontFamily: 'Roboto',
 		fontSize: 14,
 	},
